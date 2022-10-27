@@ -1,4 +1,4 @@
 FROM ubuntu
-MAINTAINER prem
+MAINTAINER gowtham
 RUN apt-get update
 CMD ["ECHO","HELLO JUPITOR"]
