@@ -1,4 +1,0 @@
-FROM ubuntu
-MAINTAINER gowtham
-RUN apt-get update
-CMD ["ECHO","HELLO JUPITOR"]
